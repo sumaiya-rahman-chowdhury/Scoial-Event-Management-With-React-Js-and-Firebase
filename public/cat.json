@@ -1,0 +1,34 @@
+ [
+      { "id":14,
+        "title": "Weddings",
+        "description": "Celebrate the love and union of two souls with a wedding that reflects your unique style and story. From intimate ceremonies to grand affairs, we make your dream wedding a reality.",
+        "image": "https://i.ibb.co/WpbprHZ/pexels-pham-hoang-kha-3785644.jpg"
+      },
+      {  "id":245,
+        "title": "Birthday Parties",
+        "description": "Whether it's a milestone birthday or a fun-themed party, we create unforgettable birthday celebrations. Let us plan the perfect party that suits your personality and preferences.",
+        "image": "https://i.ibb.co/SynjJZc/jon-tyson-CP68p1f-ZS8k-unsplash.jpg"
+      },
+      {  "id":36,
+        "title": "Anniversaries",
+        "description": "Toast to years of love and commitment with a memorable anniversary celebration. We design romantic and sentimental events that capture your journey together.",
+        "image": "https://i.ibb.co/x8gmm3k/foto-pettine-Ifj-Ha-Io-Aoq-E-unsplash.jpg"
+      },
+      {  "id":476,
+        "title": "Engagement Parties",
+        "description": "Start your journey to a lifetime together with an engagement party that sets the tone for your love story. We'll help you kick off this exciting chapter in style.",
+        "image": "https://i.ibb.co/HtmGzhQ/pexels-trung-nguyen-5096255.jpg"
+      },
+      {  "id":6454,
+        "title": "Retirement Parties",
+        "description": "Bid farewell to a successful career and welcome the relaxation of retirement. We plan retirement parties that honor your achievements and mark new beginnings.",
+        "image": "https://i.ibb.co/943GSG2/pexels-katerina-holmes-5911321.jpg"
+      },
+      {  "id":755,
+        "title": "Baby Showers",
+        "description": "Celebrate the impending arrival of your bundle of joy with a joyous baby shower. We organize heartwarming gatherings filled with love, laughter, and anticipation.",
+        "image": "https://i.ibb.co/gjzNXn7/pexels-luis-quintero-2091331.jpg"
+      }
+    ]
+ 
+  

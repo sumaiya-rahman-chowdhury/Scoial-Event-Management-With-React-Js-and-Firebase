@@ -1,0 +1,95 @@
+
+     [
+      {
+        "id": 1,
+        "customerName": "John Doe",
+        "review": "Excellent service! Highly recommended.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "customerName": "Alice Smith",
+        "review": "They did a fantastic job. Very happy with their service.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "customerName": "Bob Johnson",
+        "review": "Great experience with this event management company.",
+        "rating": 4
+      },
+      {
+        "id": 4,
+        "customerName": "Emily Brown",
+        "review": "Professional and friendly staff. Will use their services again.",
+        "rating": 5
+      },
+      {
+        "id": 5,
+        "customerName": "Michael Wilson",
+        "review": "Impressed with their attention to detail.",
+        "rating": 4
+      },
+      {
+        "id": 6,
+        "customerName": "Sarah Davis",
+        "review": "Outstanding service! They made our event memorable.",
+        "rating": 5
+      },
+      {
+        "id": 7,
+        "customerName": "David Lee",
+        "review": "Everything went smoothly. Thank you!",
+        "rating": 4
+      },
+      {
+        "id": 8,
+        "customerName": "Linda White",
+        "review": "Highly professional team. Excellent work.",
+        "rating": 5
+      },
+      {
+        "id": 9,
+        "customerName": "Chris Johnson",
+        "review": "Good communication and great results.",
+        "rating": 4
+      },
+      {
+        "id": 10,
+        "customerName": "Maria Rodriguez",
+        "review": "They exceeded our expectations. Well done!",
+        "rating": 5
+      },
+      {
+        "id": 11,
+        "customerName": "Daniel Smith",
+        "review": "Reliable and efficient. We were very pleased.",
+        "rating": 4
+      },
+      {
+        "id": 12,
+        "customerName": "Jennifer Brown",
+        "review": "Friendly staff and great service.",
+        "rating": 5
+      },
+      {
+        "id": 13,
+        "customerName": "Richard Wilson",
+        "review": "Good value for the quality of service.",
+        "rating": 4
+      },
+      {
+        "id": 14,
+        "customerName": "Laura Davis",
+        "review": "They made our special day even more special.",
+        "rating": 5
+      },
+      {
+        "id": 15,
+        "customerName": "Steven Martin",
+        "review": "Exceptional service. We couldn't be happier.",
+        "rating": 5
+      }
+    ]
+  
+  

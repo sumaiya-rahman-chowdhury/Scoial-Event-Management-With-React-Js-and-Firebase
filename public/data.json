@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "serviceName": "Venue Booking",
+      "description": "Our venue booking service simplifies the process of finding and securing the perfect event location. With an extensive directory of diverse venues, users can explore a variety of options to match their event's theme, size, and budget. Our platform provides detailed venue information, including photos, capacity, amenities, and pricing, enabling event organizers to make informed decisions. Booking a venue is as easy as a few clicks, making it convenient and stress-free for hosts to find the ideal space for their social gathering.",
+      "image": "https://i.ibb.co/WpbprHZ/pexels-pham-hoang-kha-3785644.jpg",
+      "priceRange": "$1,500 - $3,000",
+      "contactEmail": "info@dreamyevents.com",
+      "website": "https://www.dreamyevents.com"
+    },
+    {
+      "id": 2,
+      "serviceName": "Catering Services",
+      "description": "Our catering services offer a delectable array of culinary choices to elevate any event's dining experience. Users can browse through a curated list of experienced catering companies and individual chefs, each specializing in different cuisines and styles. Our platform allows hosts to customize their menus, accommodating dietary preferences and guest counts. Whether it's a gourmet feast or a casual buffet, our catering partners ensure that every dish is a delight, leaving event attendees craving more.",
+      "image": "https://i.ibb.co/SynjJZc/jon-tyson-CP68p1f-ZS8k-unsplash.jpg",
+      "priceRange": "$1,200 - $2,500",
+      "contactEmail": "info@celebratewithstyle.com",
+      "website": "https://www.celebratewithstyle.com"
+    },
+    {
+      "id": 3,
+      "serviceName": "Event Planning",
+      "description": "Our event planning service is your dedicated partner in orchestrating flawless social gatherings. Experienced event planners are available to guide hosts through the entire event planning journey. From conceptualizing unique themes to coordinating logistics and managing timelines, our experts ensure that no detail is overlooked. Hosts can relax and enjoy their event, knowing that our event planners have everything under control, resulting in a seamless and unforgettable occasion.",
+      "image": "https://i.ibb.co/HtmGzhQ/pexels-trung-nguyen-5096255.jpg",
+      "priceRange": "$1,800 - $3,200",
+      "contactEmail": "info@joyfuloccasions.com",
+      "website": "https://www.joyfuloccasions.com"
+    },
+    {
+      "id": 4,
+      "serviceName": "Photography and Videography",
+      "description": "Our photography and videography services capture the essence and emotions of your event, preserving them for a lifetime. Talented photographers and videographers work closely with hosts to understand their vision and expectations. They employ state-of-the-art equipment and artistic techniques to create stunning visuals that tell the story of your event. From candid moments to posed portraits, our professionals ensure that every frame reflects the beauty and significance of your social gathering.",
+      "image": "https://i.ibb.co/gjzNXn7/pexels-luis-quintero-2091331.jpg",
+      "priceRange": "$1,600 - $2,800",
+      "contactEmail": "info@blissfulgatherings.com",
+      "website": "https://www.blissfulgatherings.com"
+    },
+    {
+      "id": 5,
+      "serviceName": "Entertainment Booking",
+      "description": "Our entertainment booking service connects event organizers with a diverse roster of entertainers to keep guests engaged and entertained. Hosts can choose from a wide range of performers, from live bands and DJs to comedians and specialty acts. Our platform provides detailed profiles and performance samples, making it easy for hosts to select the perfect entertainment for their event. With seamless booking and coordination, our entertainers create a lively and memorable atmosphere, ensuring that guests have a fantastic time. we will book Kim Kardashian for you",
+      "image": "https://i.ibb.co/WpbprHZ/pexels-pham-hoang-kha-3785644.jpg",
+      "priceRange": "$1,700 - $3,100",
+      "contactEmail": "info@cherishedevents.com",
+      "website": "https://www.cherishedevents.com"
+    },
+    {
+      "id": 6,
+      "serviceName": "Floral and Decor Services",
+      "description": "Our floral and decor services add a touch of elegance and charm to your event space. Experienced florists and decorators work closely with hosts to conceptualize and execute stunning decor themes. From exquisite flower arrangements to innovative lighting designs and table settings, our experts transform venues into captivating settings that align with the event's vision. Our attention to detail and creative flair ensure that every corner of your social gathering is a visual masterpiece, leaving guests in awe.",
+      "image": "https://i.ibb.co/HtmGzhQ/pexels-trung-nguyen-5096255.jpg",
+      "priceRange": "$1,400 - $2,900",
+      "contactEmail": "info@goldenmoments.com",
+      "website": "https://www.goldenmoments.com"
+    }
+]
